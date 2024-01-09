@@ -1,0 +1,14 @@
+sstecid,SS_ID,SUBSECTOR,New Labels
+11,1100,Electronics,Electronics
+12,1200,Audio-visual,Audio-visual
+13,1300,ICTs,ICTs
+14,1400,Semiconductors & optics,Semiconductors & optics
+21,2100,Instruments,"Instruments, control & analysis"
+31,3100,Biopharma,"Bio, pharma & food"
+32,3200,Materials,"Materials, surface & nano"
+33,3300,Chem & environment,Chemical engineering  & environment
+34,3400,Chemicals,Chemicals
+41,4100,Machines,Machines
+42,4200,Engines & Transport,Engines & Transport
+51,5100,Civil engineering,Civil engineering
+52,5200,Consumer,Consumer goods
